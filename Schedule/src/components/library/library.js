@@ -1,4 +1,4 @@
-import React, { Component } from React;
+import React, { Component } from '../../../../../../.cache/typescript/2.9/node_modules/@types/react';
 import LibraryCourse from "./libraryCourse";
 import { connect } from 'react-redux';
 import * as actions from '../../actions';
